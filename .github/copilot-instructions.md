@@ -10,3 +10,5 @@ This is a minimal placeholder file for AI coding agents. Replace with project-sp
 Notes:
 - Keep this file short. If you need a full reference, replace with a curated set of run/debug instructions and examples drawn from `Prev_work_done/README.md`.
 
+_this is a placeholder for project-specific instructions._
+
